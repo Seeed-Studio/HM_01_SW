@@ -1,5 +1,5 @@
 ##HM-01_SW
-![image](http://www.seeedstudio.com/wiki/File:Bluetooth_Bee_v2.0_PhotoTop.jpg)
+![image](http://www.seeedstudio.com/wiki/images/5/50/Bluetooth_Bee_v2.0_PhotoTop.jpg)
 
 HM-01 is a classic Bluetooth module, it has many functions but easy to configure through AT command sets, and can be used as wireless socket to realize your idea.
 
@@ -7,7 +7,7 @@ For more information, please refer to [Bluetooth Bee v2.0][1]
 See also: [HM-01 Bluetooth Module Datasheet][2]
 
 ----
-This software is written by Jacky Zhang (![](http://www.seeedstudio.com/wiki/File:Email_addr_of_jacky_zhang.png)) from [Seeed Technology Inc.](http://www.seeed.cc) and is licensed under [The MIT License](http://opensource.org/licenses/mit-license.php). Check License.txt/LICENSE for the details of MIT license.<br>
+This software is written by Jacky Zhang (![](http://www.seeedstudio.com/wiki/images/8/8f/Email_addr_of_jacky_zhang.png)) from [Seeed Technology Inc.](http://www.seeed.cc) and is licensed under [The MIT License](http://opensource.org/licenses/mit-license.php). Check License.txt/LICENSE for the details of MIT license.<br>
 
 Contributing to this software is warmly welcomed. You can do this basically by<br>
 [forking](https://help.github.com/articles/fork-a-repo), committing modifications and then [pulling requests](https://help.github.com/articles/using-pull-requests) (follow the links above<br>
