@@ -19,6 +19,6 @@ Seeed is a hardware innovation platform for makers to grow inspirations into dif
 [1]:http://www.seeedstudio.com/wiki/Bluetooth_Bee_v2.0
 [2]:http://www.seeedstudio.com/wiki/File:Bluetooth_HM-01_en.pdf
 
-[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/HM-01_SW)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/HM_01_SW)](https://github.com/igrigorik/ga-beacon)
 
 
